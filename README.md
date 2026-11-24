@@ -34,3 +34,7 @@ git commit -m "fogona: Initial OrangeFox R12.1 device tree (Android 14)"
 git remote add origin https://github.com
 git push -u origin main
 
+### 🔗 Sources & Credits
+* **OrangeFox Recovery Source (`fox_12.1`):** https://gitlab.com/OrangeFox
+* **Device Tree (`device/motorola/fogona`):** https://github.com
+
